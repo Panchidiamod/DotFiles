@@ -4,6 +4,7 @@
 * Hyprland
 * hyprlock
 * hyprpaper
+* hyprshot
 * wofi
 * fastfetch
 * cava
