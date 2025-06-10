@@ -11,3 +11,4 @@
 * btop
 * kitty
 * waybar
+* swaync
